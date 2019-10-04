@@ -6,7 +6,7 @@ Boilerplate for starting server-side rendering with React. Covered routing, redu
 
 ## Usage
 
-Cloene the repo and install the dependencies:
+Clone the repo and install the dependencies:
 
 ```shell
 > git clone https://github.com/kukiron/react-ssr-starter-kit.git
